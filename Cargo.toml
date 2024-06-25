@@ -1,0 +1,8 @@
+[package]
+name = "streebog256"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+streebog = "0.11.0-pre.1"
+hex = "0.4.3"
